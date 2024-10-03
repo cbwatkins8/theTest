@@ -1,0 +1,4 @@
+# Test File
+"dependencies": {
+  "lodash": "4.17.11"  // This version has known vulnerabilities
+}
